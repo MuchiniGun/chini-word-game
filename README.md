@@ -1,4 +1,5 @@
-**Chini Word Game**
+# **Chini Word Game**
+
 This is a word game mini web app that I made when I was first learning react. I started by skimming through a tutorial and made it using some of the knowledge gained from the tutorial as well as other knowledge that I had gained from react to fully customize it. It is on my portfolio site as : https://www.muchiniport.com/word-game/
 
 I learned a lot from this site and have progressed a lot more since it. I will eventually remake this with my current knowledge and make it 10 times better.
